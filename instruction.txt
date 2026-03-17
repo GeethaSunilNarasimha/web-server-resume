@@ -1,5 +1,3 @@
 Objectives:
 1. Deploy your website on an Docker container using your own project on the github repository 
- convert your your resume into website from http to https to make it secured 
-In your submission discuss how you have incorporated cloud service to achieve the conversion from http to https - 15 marks
-Include reflections and lessons learnt - 15 marks
+2. convert your your resume into website from http to https to make it secured 
